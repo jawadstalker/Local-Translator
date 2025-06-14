@@ -1,5 +1,5 @@
 # Local-Translator
-# Clipboard Translator
+![Project Logo](logo.png)
 
 A lightweight tool that lets you translate your **clipboard's text on-demand** using a keyboard shortcut.
 
