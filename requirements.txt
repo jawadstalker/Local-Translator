@@ -1,0 +1,6 @@
+#requirements.txt
+torch
+transformers
+pyperclip
+langdetect
+keyboard
